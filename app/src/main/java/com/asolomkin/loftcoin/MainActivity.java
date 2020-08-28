@@ -1,10 +1,8 @@
-package com.asolomkin.loftcoin.activity;
+package com.asolomkin.loftcoin;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-
-import com.asolomkin.loftcoin.R;
 
 public class MainActivity extends AppCompatActivity {
 
