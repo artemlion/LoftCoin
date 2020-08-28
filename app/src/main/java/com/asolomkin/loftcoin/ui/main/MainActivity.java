@@ -1,4 +1,4 @@
-package com.asolomkin.loftcoin.activity;
+package com.asolomkin.loftcoin.ui.main;
 
 import androidx.appcompat.app.AppCompatActivity;
 
