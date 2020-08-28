@@ -39,7 +39,7 @@
         app:layout_constraintTop_toBottomOf="@id/logo"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        android:text="LoftCoin"
+        android:text="@string/app_name"
         android:fontFamily="sans-serif"
         android:textSize="48sp"
         android:textColor="@color/white"
